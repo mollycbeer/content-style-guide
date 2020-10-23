@@ -4,7 +4,7 @@ layout: article
 ---
 
 This style guide was created for Mailchimp employees, but we hope it’s helpful for other content and communications teams too.
-
+## For molly?
 ## If you work at Mailchimp
 
 This is our company style guide. It helps us write clear and consistent content across teams and channels. Please use it as a reference when you’re writing for Mailchimp.
